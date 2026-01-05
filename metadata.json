@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI E-commerce Lead Finder",
+  "description": "An AI-powered dashboard to find high-quality e-commerce leads based on niche and location using Gemini with Google Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
